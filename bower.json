@@ -1,6 +1,6 @@
 {
   "name": "d3-cloud",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "main": "build/d3.layout.cloud.js",
   "dependencies": {
     "d3-dispatch": "1"
